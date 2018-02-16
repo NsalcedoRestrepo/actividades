@@ -1,9 +1,0 @@
-Le contratan para hacer la base de datos de la corporación Casa de la Mujer que permita guardar los cursos que se ofertan, el valor del curso, horario del curso, requisitos del curso, cada uno de estás debe tener.
--Los_cursos : nombre_curso, duración_curso, objetivo_curso, profesores_curso.
--Valor_curso: moneda_colombiana, descuento, credito.
--horario: dia, hora, año, meses, duracion. 
--Requisitos del curso: Pruebas icfes, Nombre y apellido, número, barrio, cedula, RUT, correo, pagina web, curso
- 
-
-
-
